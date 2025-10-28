@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/files/UEProject/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/files/UEProject/MyProject/Content/BP_Cable.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N7/VCIE95F9J5O8SUU412N98U.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KA/7PTR97R8460DRMBYXEOQ9A.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6Z/V3EM8KEMK9WSIKTJL9YKU5.uasset",
+				"D:/files/UEProject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2X/KCH709O237DG33DIZJGZA3.uasset",
+				"D:/files/UEProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"D:/files/UEProject/MyProject/Content/Maps/NewWorld.umap",
+				"D:/files/UEProject/MyProject/Content/StarterContent/Maps/StarterMap.umap",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/Plan.uasset",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/24_green_grass_texture-seamless.uasset",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/Plain.uasset",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/24_green_grass_texture-seamless_bump.uasset",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/CeilBombing.uasset",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/T_uvChecker_1.uasset",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/T_Voronoi_Perturbed2_2k.uasset",
+				"D:/files/UEProject/MyProject/Content/CeilBombing/StarterMap1.umap"
+			]
+		}
+	]
+}
